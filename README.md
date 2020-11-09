@@ -10,10 +10,12 @@
 
 Data + reqs
 > https://canvas.newschool.edu/courses/1525001/assignments/8211916
+
 > https://data.census.gov/cedsci/
 
-Output
-https://datawrapper.dwcdn.net/G1zyw/1/
+Output: 
+> https://datawrapper.dwcdn.net/G1zyw/1/
+![Education and Salary difference between men and women](https://raw.githubusercontent.com/madhat5/DVIA-ex_assign-4/master/deploy/G1zyw-education-and-salary-difference-between-men-and-women.png)
 
 
 ============================================================
