@@ -1,0 +1,261 @@
+[{
+    "state": "Alabama",
+    "maleSalary": 389944,
+    "femaleSalary": 454220,
+    "salarydiff": 64276
+}, {
+    "state": "Alaska",
+    "maleSalary": 63448,
+    "femaleSalary": 77448,
+    "salarydiff": 14000
+}, {
+    "state": "Arizona",
+    "maleSalary": 688515,
+    "femaleSalary": 726562,
+    "salarydiff": 38047
+}, {
+    "state": "Arkansas",
+    "maleSalary": 203809,
+    "femaleSalary": 244369,
+    "salarydiff": 40560
+}, {
+    "state": "California",
+    "maleSalary": 4352414,
+    "femaleSalary": 4621693,
+    "salarydiff": 269279
+}, {
+    "state": "Colorado",
+    "maleSalary": 800261,
+    "femaleSalary": 828134,
+    "salarydiff": 27873
+}, {
+    "state": "Connecticut",
+    "maleSalary": 452403,
+    "femaleSalary": 505159,
+    "salarydiff": 52756
+}, {
+    "state": "Delaware",
+    "maleSalary": 102359,
+    "femaleSalary": 116844,
+    "salarydiff": 14485
+}, {
+    "state": "District of Columbia",
+    "maleSalary": 137305,
+    "femaleSalary": 150341,
+    "salarydiff": 13036
+}, {
+    "state": "Florida",
+    "maleSalary": 2150072,
+    "femaleSalary": 2337468,
+    "salarydiff": 187396
+}, {
+    "state": "Georgia",
+    "maleSalary": 997904,
+    "femaleSalary": 1206783,
+    "salarydiff": 208879
+}, {
+    "state": "Hawaii",
+    "maleSalary": 145324,
+    "femaleSalary": 174537,
+    "salarydiff": 29213
+}, {
+    "state": "Idaho",
+    "maleSalary": 158982,
+    "femaleSalary": 163815,
+    "salarydiff": 4833
+}, {
+    "state": "Illinois",
+    "maleSalary": 1405673,
+    "femaleSalary": 1569082,
+    "salarydiff": 163409
+}, {
+    "state": "Indiana",
+    "maleSalary": 544559,
+    "femaleSalary": 611187,
+    "salarydiff": 66628
+}, {
+    "state": "Iowa",
+    "maleSalary": 273939,
+    "femaleSalary": 319626,
+    "salarydiff": 45687
+}, {
+    "state": "Kansas",
+    "maleSalary": 294363,
+    "femaleSalary": 332938,
+    "salarydiff": 38575
+}, {
+    "state": "Kentucky",
+    "maleSalary": 334761,
+    "femaleSalary": 396469,
+    "salarydiff": 61708
+}, {
+    "state": "Louisiana",
+    "maleSalary": 322995,
+    "femaleSalary": 416568,
+    "salarydiff": 93573
+}, {
+    "state": "Maine",
+    "maleSalary": 139039,
+    "femaleSalary": 174854,
+    "salarydiff": 35815
+}, {
+    "state": "Maryland",
+    "maleSalary": 758379,
+    "femaleSalary": 889553,
+    "salarydiff": 131174
+}, {
+    "state": "Massachusetts",
+    "maleSalary": 982847,
+    "femaleSalary": 1109022,
+    "salarydiff": 126175
+}, {
+    "state": "Michigan",
+    "maleSalary": 942448,
+    "femaleSalary": 1037701,
+    "salarydiff": 95253
+}, {
+    "state": "Minnesota",
+    "maleSalary": 657647,
+    "femaleSalary": 730947,
+    "salarydiff": 73300
+}, {
+    "state": "Mississippi",
+    "maleSalary": 174548,
+    "femaleSalary": 239845,
+    "salarydiff": 65297
+}, {
+    "state": "Missouri",
+    "maleSalary": 563353,
+    "femaleSalary": 653560,
+    "salarydiff": 90207
+}, {
+    "state": "Montana",
+    "maleSalary": 115112,
+    "femaleSalary": 122025,
+    "salarydiff": 6913
+}, {
+    "state": "Nebraska",
+    "maleSalary": 190019,
+    "femaleSalary": 215004,
+    "salarydiff": 24985
+}, {
+    "state": "Nevada",
+    "maleSalary": 247275,
+    "femaleSalary": 267812,
+    "salarydiff": 20537
+}, {
+    "state": "New Hampshire",
+    "maleSalary": 166938,
+    "femaleSalary": 189771,
+    "salarydiff": 22833
+}, {
+    "state": "New Jersey",
+    "maleSalary": 1172436,
+    "femaleSalary": 1285778,
+    "salarydiff": 113342
+}, {
+    "state": "New Mexico",
+    "maleSalary": 170381,
+    "femaleSalary": 199936,
+    "salarydiff": 29555
+}, {
+    "state": "New York",
+    "maleSalary": 2272044,
+    "femaleSalary": 2632271,
+    "salarydiff": 360227
+}, {
+    "state": "North Carolina",
+    "maleSalary": 1008134,
+    "femaleSalary": 1209409,
+    "salarydiff": 201275
+}, {
+    "state": "North Dakota",
+    "maleSalary": 65381,
+    "femaleSalary": 82039,
+    "salarydiff": 16658
+}, {
+    "state": "Ohio",
+    "maleSalary": 1061361,
+    "femaleSalary": 1194216,
+    "salarydiff": 132855
+}, {
+    "state": "Oklahoma",
+    "maleSalary": 305308,
+    "femaleSalary": 348456,
+    "salarydiff": 43148
+}, {
+    "state": "Oregon",
+    "maleSalary": 464664,
+    "femaleSalary": 516062,
+    "salarydiff": 51398
+}, {
+    "state": "Pennsylvania",
+    "maleSalary": 1322408,
+    "femaleSalary": 1468001,
+    "salarydiff": 145593
+}, {
+    "state": "Rhode Island",
+    "maleSalary": 117601,
+    "femaleSalary": 131435,
+    "salarydiff": 13834
+}, {
+    "state": "South Carolina",
+    "maleSalary": 464364,
+    "femaleSalary": 543279,
+    "salarydiff": 78915
+}, {
+    "state": "South Dakota",
+    "maleSalary": 81198,
+    "femaleSalary": 87775,
+    "salarydiff": 6577
+}, {
+    "state": "Tennessee",
+    "maleSalary": 590258,
+    "femaleSalary": 699143,
+    "salarydiff": 108885
+}, {
+    "state": "Texas",
+    "maleSalary": 2671098,
+    "femaleSalary": 2852308,
+    "salarydiff": 181210
+}, {
+    "state": "Utah",
+    "maleSalary": 335085,
+    "femaleSalary": 299823,
+    "salarydiff": 35262
+}, {
+    "state": "Vermont",
+    "maleSalary": 73807,
+    "femaleSalary": 91253,
+    "salarydiff": 17446
+}, {
+    "state": "Virginia",
+    "maleSalary": 1057130,
+    "femaleSalary": 1179815,
+    "salarydiff": 122685
+}, {
+    "state": "Washington",
+    "maleSalary": 927600,
+    "femaleSalary": 952619,
+    "salarydiff": 25019
+}, {
+    "state": "West Virginia",
+    "maleSalary": 117549,
+    "femaleSalary": 139949,
+    "salarydiff": 22400
+}, {
+    "state": "Wisconsin",
+    "maleSalary": 561385,
+    "femaleSalary": 654668,
+    "salarydiff": 93283
+}, {
+    "state": "Wyoming",
+    "maleSalary": 51157,
+    "femaleSalary": 55878,
+    "salarydiff": 4721
+}, {
+    "state": "Puerto Rico",
+    "maleSalary": 205088,
+    "femaleSalary": 315315,
+    "salarydiff": 110227
+}]
