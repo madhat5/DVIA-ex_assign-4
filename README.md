@@ -13,7 +13,7 @@ Data + reqs
 > https://data.census.gov/cedsci/
 
 Output
-![project-img](img_url)
+https://datawrapper.dwcdn.net/G1zyw/1/
 
 
 ============================================================
@@ -57,12 +57,17 @@ Answer project questions as you go along
     - Which other existing materials should we take into account?
     - Which constraints do we have?
 - explore
-    - with R
+    - w/ R
         > https://www.r-graph-gallery.com/all-graphs.html
         > https://cran.r-project.org/web/packages/tidyjson/vignettes/visualizing-json.html
-    - with RawGraphs 
+    - w/ RawGraphs 
         > https://rawgraphs.io/
         > https://github.com/densitydesign/raw/
+    - w/ DataWrapper
+        > https://app.datawrapper.de/create/map
+- clean
+    > https://csvjson.com/csv2json
+    > https://www.npmjs.com/package/csvtojson
 
 *=====================*
 **3-6**
@@ -77,7 +82,7 @@ Answer project questions as you go along
     > https://bl.ocks.org/
     > https://bost.ocks.org/mike/
     > https://www.axismaps.com/projects
-    > http://datamaps.github.io/
+    > http://datamaps.github.io/ | https://github.com/markmarkoh/datamaps/blob/master/README.md#getting-started
 - What does the visualization enable?
 - Is this a static visualization? Is it interactive?
 - color: Is it intentional and intuitive? data decodable by audience?
@@ -101,33 +106,34 @@ Answer project questions as you go along
 ============================================================
 
 ### Concept & build
-
-- Why are we doing this?
-    - What are questions that you want to explore with this visualization?
-- What are you hoping to achieve?
-    - What will I be looking at(title)?
-- Who are we targeting?
-    - How is the end product going to be used?
-    - How are we publishing?
-
 1. 
 - Questions
     - *education difference btw men and women?*
         - calc difference in edu of men vs women, for bachelor+
         - at or above poverty line
+        - can we show additional data? eg toggle button for states where female salary > male salary
     - Unemployment rate by county/state?
     - Insured rates?
     - Diabetes and obesity prevalence/other health stats?
     - Election results by race/age/etc?
     - Utilities data?
 - Goal
-    - 
+    - visualize salary difference between men and women, for the same education group (bachelor+), and same socio-economic group (> poverty)
+    - this visual would be useful for policy makers, students, researchers
+
+2.
+- Data source:
+    - https://data.census.gov/cedsci/
+
+3.
+- We'll be using a choropleth map visual.
 
 
 
 
 ============================================================
 ##### Project refs
+> https://github.com/madhat5/DVIA-ex_assign-2
 > https://www.d3-graph-gallery.com/graph/bubble_tooltip.html
 > https://www.d3-graph-gallery.com/graph/interactivity_tooltip.html
 > https://www.d3-graph-gallery.com/graph/line_select.html
