@@ -85,6 +85,7 @@ Answer project questions as you go along
     > https://bost.ocks.org/mike/
     > https://www.axismaps.com/projects
     > http://datamaps.github.io/ | https://github.com/markmarkoh/datamaps/blob/master/README.md#getting-started
+    > https://kepler.gl/
     > https://plotly.com/ | https://github.com/plotly/plotly.js
 - What does the visualization enable?
 - Is this a static visualization? Is it interactive?
